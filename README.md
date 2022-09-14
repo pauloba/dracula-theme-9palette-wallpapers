@@ -1,20 +1,22 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for your Desktop
 
-> A dark theme for [Foobar](https://foobar.com).
+> A set of Dracula theme wallpapers for your Desktop.
 
-![Screenshot](./screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+Just set the desired image as your wallpaper.
+- Wallpapers location: folder /wallpapers
+- Size: 1920x1080
+- Format: jpg
+- The images were created using [Gimp](https://www.gimp.org/):
+    - The file dracula-theme.xcf can be edited by you with Gimp.
+    - dracula-theme.xcf has 9 [layers](https://docs.gimp.org/2.10/en/gimp-image-combining.html#gimp-concepts-layers) for you to play around and enjoy!
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
-
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
-| ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+This theme is maintained by the following person: [Pauloba](https://github.com/pauloba)                                               
 
 ## Community
 
